@@ -47,7 +47,13 @@ __h1__
 >H1.3
 -met un masque
 __H2__
--voit la photo rigole la montre a ses amis et reagit 
+-voit la photo rigole la montre a ses amis et reagit "j avoue ! sa geule !"
+>h2.1
+-met un masque
+__h3__
+-voit la photo reagit par un smiley qui rigole
+>h3.1
+-met un masque au fur et a mesur les gens voiient la photo et mettentdes masques. Tous le monde a des masque la victime est soeul abiller en blanc d un coup une personne enleve son masque et vien relever la victime . le harceleur qui  a publie la photo enleve son masque en dernier et revient avec les autres a la fin le harceleur revient et retourne avec sa bande de potes le groupe d amis de la victime passe
 
 
 ## commentaires
